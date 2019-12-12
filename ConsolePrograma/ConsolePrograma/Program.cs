@@ -13,7 +13,7 @@ namespace ConsolePrograma
 
             Console.WriteLine(IsPrimal(7));
 
-
+            Console.WriteLine("yes");
         }
         static int Numeris(int n1, int n2, int n3)
         {
