@@ -7,12 +7,12 @@ namespace ConsolePrograma
         static Random random = new Random();
         static void Main(string[] args)
         {
+            Console.WriteLine("hello");
             //Console.WriteLine(Numeris(3,2,1));
             //Console.WriteLine(InRange(4, 2, 9));
             //Console.WriteLine(InRange(1, 6, 7));
 
             Console.WriteLine(IsPrimal(7));
-
 
         }
         static int Numeris(int n1, int n2, int n3)
